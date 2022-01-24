@@ -23,7 +23,7 @@ I made other portfolio with React, but i decided to remade, 'because i learn a l
 - React js
 - Chakra UI
 - Node js
-- Motion
+- Frame Motion
 - Node js
 - CSS3
 - vscode
