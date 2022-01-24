@@ -24,7 +24,7 @@ export const About = () => {
           flexDir: "column",
           textAlign: "left",
           paddingLeft: "1rem",
-          pr: "6rem",
+          pr: "5rem",
           pt: 8,
           pb: 8,
           fontFamily: "Rokkitt",
