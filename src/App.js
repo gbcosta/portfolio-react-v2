@@ -1,5 +1,3 @@
-import logo from "./logo.svg";
-import "./App.css";
 import { Home } from "./components/home";
 import { ChakraProvider } from "@chakra-ui/react";
 import "@fontsource/rokkitt";
