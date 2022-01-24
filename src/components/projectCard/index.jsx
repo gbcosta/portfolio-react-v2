@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Text, Box, Divider, Image } from "@chakra-ui/react";
+import { Flex, Text, Box, Divider } from "@chakra-ui/react";
 export const ProjectCard = (props) => {
   return (
     <Flex

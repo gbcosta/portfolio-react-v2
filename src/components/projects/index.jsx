@@ -1,5 +1,5 @@
 import React from "react";
-import { Flex, Grid, Text } from "@chakra-ui/react";
+import { Flex } from "@chakra-ui/react";
 import { ProjectCard } from "../projectCard";
 import portfolioImg from "../../images/portfolio.png";
 import pokemon from "../../images/pokemon.png";
