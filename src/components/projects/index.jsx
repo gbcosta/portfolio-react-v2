@@ -13,7 +13,7 @@ import {
 } from "../animations";
 export const Projects = () => {
   return (
-    <Flex justifyContent={"center"} flexDirection={"column"} mt={12} pb={20}>
+    <Flex flexDirection={"column"} mt={12} pb={20} textAlign={"center"}>
       <TextMotion
         color={"#ddd"}
         fontSize={"6xl"}
