@@ -1,6 +1,6 @@
 <h1 align="center">
   React Portfolio V2<br/>
-  <a href="https://gbcosta.github.io/" target="_blank">https://gbcosta.github.io/</a>
+  <a href="https://gbcostasant.netlify.app/" target="_blank">https://gbcostasant.netlify.app/</a>
 </h1>
 <div align="center">
   <img alt="DeviceMashups" src="./images/mockup.png" />
