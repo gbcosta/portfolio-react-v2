@@ -15,7 +15,7 @@ export const Footer = () => {
       }}
     >
       <Text color={"white"} fontFamily={"Rokkitt"} fontSize={"1.2rem"}>
-        @ ©2021 G.C. Santos. All rights reserved.
+         ©2021 G.C. Santos. All rights reserved.
       </Text>
     </Flex>
   );
